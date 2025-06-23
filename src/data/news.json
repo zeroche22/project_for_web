@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Web 3.0",
+    "body": "Web 3.0 is the next generation of the internet focused on decentralization, blockchain technology, and user empowerment. It enables peer-to-peer interactions without intermediaries, enhances data privacy, and supports smart contracts and decentralized apps (dApps).\n",
+    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "id": 2,
+    "title": "New Algorithm Solves Long-Standing Problem",
+    "body": "A new breakthrough in number theory has been achieved by a team of researchers.",
+    "link": "https://example.com/new-algorithm-breakthrough"
+  },
+  {
+    "id": 3,
+    "title": "AI Advances in Healthcare",
+    "body": "Artificial intelligence is transforming patient care with innovative solutions.",
+    "link": "https://example.com/ai-healthcare-advances"
+  },
+  {
+    "id": 4,
+    "title": "Quantum Computing Milestone Reached",
+    "body": "A major milestone in quantum computing has been reached, promising faster computations.",
+    "link": "https://example.com/quantum-computing-milestone"
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity Threats on the Rise",
+    "body": "Experts warn of increasing cybersecurity threats as more devices become interconnected.",
+    "link": "https://example.com/cybersecurity-threats-rise"
+  }
+]

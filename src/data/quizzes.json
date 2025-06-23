@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "JavaScript Basics",
+        "image": "img/js.png",
+        "description": "Test your knowledge of JavaScript fundamentals.",
+        "questions": [
+            {
+                "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+                "options": [
+                    "<script href='script.js'>",
+                    "<script name='script.js'>",
+                    "<script src='script.js'>",
+                    "<script link='script.js'>"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which of the following is a JavaScript data type?",
+                "options": [
+                    "String",
+                    "Number",
+                    "Boolean",
+                    "All of the above"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "How do you create a function in JavaScript?",
+                "options": [
+                    "function myFunction()",
+                    "create myFunction()",
+                    "def myFunction()",
+                    "function:myFunction()"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the output of 'console.log(typeof null);'?",
+                "options": [
+                    "'object'",
+                    "'null'",
+                    "'undefined'",
+                    "'number'"
+                ],
+                "answer": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "CSS Fundamentals",
+        "image": "img/css.png",
+        "description": "Assess your understanding of CSS basics.",
+        "questions": [
+            {
+                "question": "Which property is used to change the background color in CSS?",
+                "options": [
+                    "color",
+                    "background-color",
+                    "bgcolor",
+                    "background"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How do you select an element with the class 'example' in CSS?",
+                "options": [
+                    ".example",
+                    "#example",
+                    "*example",
+                    "@example"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the default value of the 'position' property in CSS?",
+                "options": [
+                    "static",
+                    "relative",
+                    "absolute",
+                    "fixed"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which CSS property controls the text size?",
+                "options": [
+                    "font-size",
+                    "text-size",
+                    "size",
+                    "text-style"
+                ],
+                "answer": 0
+            }
+        ]
+    }
+]
